@@ -1,0 +1,23 @@
+body {
+    background-image: url(workspace.jpg);
+    font-family: monospace;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+    width: 800px;
+    height: 600px;
+    margin: 20px;
+    padding: 10%;
+
+}
+
+h1 {
+    font-size: 50px;
+  }
+#appointments {
+    text-align: right;
+    width: 350px;
+    font-size: 20px;
+}
