@@ -5,12 +5,10 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
-
     width: 800px;
     height: 600px;
-    margin: 20px;
-    padding: 10%;
-
+    padding: 2%;
+    margin: 6px;
 }
 
 h1 {
