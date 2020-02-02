@@ -1,6 +1,6 @@
 body {
-    background-image: url(workspace.jpg);
-    font-family: monospace;
+    background-image: url(assets/workspace.jpg);
+    font-family: Andale Mono, monospace;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -12,10 +12,20 @@ body {
 }
 
 h1 {
+    font-family: 'Sacramento', cursive;
     font-size: 50px;
   }
 #appointments {
     text-align: right;
     width: 350px;
     font-size: 20px;
+}
+
+td {
+    padding: 10px;
+}
+
+#save {
+    image: url(assets/save-icon.webp);
+
 }
